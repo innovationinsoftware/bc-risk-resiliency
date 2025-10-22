@@ -1,4 +1,4 @@
-## Introduction
+## Introduction 
 
 While this model focuses on data security, we will be using it frequently in the discussion, labs and case studies in the course
 
