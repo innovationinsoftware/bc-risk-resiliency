@@ -10,3 +10,4 @@ This project is going to be an investigation of AI in banking from a risk and re
 
 [AI in Banking - How Artificial Intelligence Can Be Utilised in Banking Industry](https://www.creatio.com/en-gb/glossary/ai-in-banking)
 
+[Bank of England says AI software could create market crisis for profit](https://www.theguardian.com/business/2025/apr/09/bank-of-england-says-ai-software-could-create-market-crisis-profit)
